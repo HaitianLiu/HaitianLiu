@@ -103,10 +103,49 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/a04a57f5-e7cc-47ec-8366-e4b0735a7340" alt="bootstrape" height="50"/>
   </a> 
+  &nbsp;&nbsp;
+  <a href="https://d3js.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a04a57f5-e7cc-47ec-8366-e4b0735a7340" alt="d3" height="50"/>
+  </a> 
 </p>
 
+<br>
 
-
+<p align="center">
+  <b>Libraries</b>
+  <br><br>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2d71481a-aea6-48fc-95a2-8d7880d498b8" alt="huggingface" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/139d7115-1583-4f67-9f89-1b7612f4e6e9" alt="pandas" height="50"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/40e1fc4c-21b6-4264-adb2-8aab14df211e" alt="numpy" height="50"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" height="50"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://scikit-learn.org/stable/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50"/>
+  </a> 
+</p>
 
 
 
