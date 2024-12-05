@@ -147,5 +147,14 @@
   </a> 
 </p>
 
+---
+
+## Github Stats
+
+<div align="center">
+    <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaitianLiu&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="HaitianLiu"/>
+<img height="178em" src="https://github-readme-stats.vercel.app/api?username=HaitianLiu&theme=city_light&hide_border=false&include_all_commits=false&count_private=true" alt="HaitianLiu" />
+</div>
+
 
 
