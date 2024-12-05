@@ -24,8 +24,7 @@
 <br>
 <p align="center">
   <b>Languages</b>
-  <br>
-  <br>
+  <br><br>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" height="50"/>
   </a>
@@ -52,12 +51,10 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <b>Platform & Tools</b>
-  <br>
-  <br>
+  <br><br>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
   </a>
@@ -74,6 +71,10 @@
     <img src="https://github.com/user-attachments/assets/fce8062e-6b5d-42a2-b9a9-37ea7072be73" alt="tableau" height="50"/>
   </a> 
   &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mySQL" height="50"/>
+  </a>  
+  &nbsp;&nbsp;
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="50"/>
   </a> 
@@ -82,6 +83,30 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" height="50"/>
   </a> 
 </p>
+
+<br>
+<p align="center">
+<b>Frontend</b>
+  <br><br>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9676a719-0701-4e3c-9fa0-5439ca2f0ed8" alt="css3" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a04a57f5-e7cc-47ec-8366-e4b0735a7340" alt="bootstrape" height="50"/>
+  </a> 
+</p>
+
+
+
 
 
 
